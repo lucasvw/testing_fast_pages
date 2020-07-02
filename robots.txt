@@ -1,0 +1,1 @@
+Sitemap: https://lucasvw.github.io/testing_fast_pages/sitemap.xml
